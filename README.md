@@ -27,7 +27,6 @@ By harnessing the power of web scraping, data processing, analytical insights, a
 **Visual Insights:** Developed insightful visualizations using Matplotlib and Seaborn. This includes a dynamic bar chart showcasing the distribution of jobs per company, a histogram revealing the diversity of experience levels, and a count plot providing a clear view of the distribution of job titles.
 
 **Technical Details:**
-
 1. Dependencies: Utilized essential Python libraries - pandas for data handling, matplotlib for visualization, and seaborn for enhancing plot aesthetics.
 
 2. User-defined Functions:
@@ -38,6 +37,7 @@ visualize_data(df): Implemented a function for generating a visually appealing b
 Bar chart showcasing the number of jobs per company.
 Histogram illustrating the distribution of experience levels.
 Count plot offering insights into the distribution of job titles.
+
 
 **How to Use:**
 Begin by calling create_dataframe() with your lists of job-related information.
