@@ -1,4 +1,4 @@
-# Web-Scraping
+# Navigating the Data Science Job Landscape
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*k4p-XxOaXd7sS9-3bLWQvQ.gif)
 
