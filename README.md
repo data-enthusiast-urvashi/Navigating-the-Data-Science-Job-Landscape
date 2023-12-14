@@ -2,7 +2,7 @@
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*k4p-XxOaXd7sS9-3bLWQvQ.gif)
 
-This repository contains an exploratory data analysis (EDA) project focused on analyzing Play Store apps data. The Play Store is a significant platform for Android app developers, offering vast potential for app-making businesses to thrive. By extracting actionable insights from the available data, developers can gain valuable knowledge to capture the Android market successfully.
+This repository contains the Job Portal Explorer, a tool that uses web scraping and advanced data analysis. It offers insights and visualizations to help users understand the job market, allowing them to make informed career decisions.
 
 ## Objective
 **Web Scraping Mastery:**
