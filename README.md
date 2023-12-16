@@ -1,6 +1,6 @@
 # Navigating the Data Science Job Landscape
 
-![](https://miro.medium.com/v2/resize:fit:1400/1*k4p-XxOaXd7sS9-3bLWQvQ.gif)
+![](https://miro.medium.com/v2/resize:fit:1400/1*k4p-XxOaXd7sS9-3bLWQvQ.gif)..
 
 This repository hosts the Job Portal Explorer, a tool that leverages web scraping and advanced data analysis techniques to deliver a comprehensive and interactive platform for navigating the job market. Its insights and visualizations provide users with a better understanding of the evolving job market landscape, empowering them to make informed decisions about their careers.
 
